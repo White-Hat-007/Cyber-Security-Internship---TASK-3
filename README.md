@@ -104,4 +104,12 @@ The full Nessus PDF  report containing all 75 findings, including CVEs, affected
 > * Replace untrusted SSL certs.
 > * Re-run scan to confirm vulnerabilities have been mitigated.
 
-```
+---
+
+## 👨‍💻 Author
+
+**Darsh Chatrani**  
+🔗 [LinkedIn](https://linkedin.com/in/darshchatrani)  
+📞 Contact: +91 97899 57123
+
+---
